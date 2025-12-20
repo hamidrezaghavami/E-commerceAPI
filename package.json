@@ -1,0 +1,20 @@
+{
+  "name": "e-commerceapi",
+  "version": "1.0.0",
+  "description": "an API for an e-commerce platform",
+  "homepage": "https://github.com/hamidrezaghavami/E-commerceAPI#readme",
+  "bugs": {
+    "url": "https://github.com/hamidrezaghavami/E-commerceAPI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamidrezaghavami/E-commerceAPI.git"
+  },
+  "license": "MIT",
+  "author": "Hamid Reza Ghavami",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
